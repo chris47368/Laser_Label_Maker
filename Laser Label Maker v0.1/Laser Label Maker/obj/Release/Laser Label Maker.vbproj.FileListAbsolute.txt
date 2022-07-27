@@ -1,0 +1,10 @@
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\obj\Release\Laser_Label_Maker.Form1.resources
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\obj\Release\Laser_Label_Maker.Resources.resources
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\obj\Release\Laser Label Maker.vbproj.GenerateResource.cache
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\obj\Release\Laser Label Maker.vbproj.CoreCompileInputs.cache
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\bin\Release\Laser Label Maker v0.1.exe
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\bin\Release\Laser Label Maker v0.1.pdb
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\bin\Release\Laser Label Maker v0.1.xml
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\obj\Release\Laser Label Maker v0.1.exe
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\obj\Release\Laser Label Maker v0.1.xml
+F:\MEGA\Main Data\Programs\Laser Label Maker\Laser Label Maker\obj\Release\Laser Label Maker v0.1.pdb
